@@ -1,0 +1,3 @@
+I'm taking about 48 hours.
+This is my first time learning and develop a program using RESTFUL Api.
+I'm taking time to learn JWT token authentication although i'm still not quite familiar with jwt token authentication with WEB Api.
